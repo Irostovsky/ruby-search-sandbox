@@ -11,4 +11,4 @@ Sandbox for the https://github.com/Irostovsky/ruby-search
 4. To search:
   * ``` search Canada ```
   * ``` search Canada AND way AND gone```
-  * ``` search "going soon" Canada```  
+  * ``` search "going soon" Canada Test```  
