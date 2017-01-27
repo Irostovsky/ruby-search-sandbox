@@ -1,0 +1,32 @@
+GIT
+  remote: git@github.com:Irostovsky/ruby-search.git
+  revision: 82ad6328a762d30a039c5d2f81b7f6ecf5cb1ca6
+  specs:
+    ruby-search (0.1.0)
+      activesupport (~> 5.0.1)
+      ruby-filemagic
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activesupport (5.0.1)
+      concurrent-ruby (~> 1.0, >= 1.0.2)
+      i18n (~> 0.7)
+      minitest (~> 5.1)
+      tzinfo (~> 1.1)
+    concurrent-ruby (1.0.4)
+    i18n (0.7.0)
+    minitest (5.10.1)
+    ruby-filemagic (0.7.1)
+    thread_safe (0.3.5)
+    tzinfo (1.2.2)
+      thread_safe (~> 0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ruby-search!
+
+BUNDLED WITH
+   1.14.3
