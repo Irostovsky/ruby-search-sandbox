@@ -1,6 +1,6 @@
 GIT
   remote: git@github.com:Irostovsky/ruby-search.git
-  revision: 82ad6328a762d30a039c5d2f81b7f6ecf5cb1ca6
+  revision: ca9dab28a765a4ed639a2f27fa64ef5b0bb863c1
   specs:
     ruby-search (0.1.0)
       activesupport (~> 5.0.1)
